@@ -1,0 +1,16 @@
+F:\C# Projects\Caesar\Caesar\bin\Debug\net5.0\Caesar.exe
+F:\C# Projects\Caesar\Caesar\bin\Debug\net5.0\Caesar.deps.json
+F:\C# Projects\Caesar\Caesar\bin\Debug\net5.0\Caesar.runtimeconfig.json
+F:\C# Projects\Caesar\Caesar\bin\Debug\net5.0\Caesar.runtimeconfig.dev.json
+F:\C# Projects\Caesar\Caesar\bin\Debug\net5.0\Caesar.dll
+F:\C# Projects\Caesar\Caesar\bin\Debug\net5.0\ref\Caesar.dll
+F:\C# Projects\Caesar\Caesar\bin\Debug\net5.0\Caesar.pdb
+F:\C# Projects\Caesar\Caesar\obj\Debug\net5.0\Caesar.csprojAssemblyReference.cache
+F:\C# Projects\Caesar\Caesar\obj\Debug\net5.0\Caesar.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Projects\Caesar\Caesar\obj\Debug\net5.0\Caesar.AssemblyInfoInputs.cache
+F:\C# Projects\Caesar\Caesar\obj\Debug\net5.0\Caesar.AssemblyInfo.cs
+F:\C# Projects\Caesar\Caesar\obj\Debug\net5.0\Caesar.csproj.CoreCompileInputs.cache
+F:\C# Projects\Caesar\Caesar\obj\Debug\net5.0\Caesar.dll
+F:\C# Projects\Caesar\Caesar\obj\Debug\net5.0\ref\Caesar.dll
+F:\C# Projects\Caesar\Caesar\obj\Debug\net5.0\Caesar.pdb
+F:\C# Projects\Caesar\Caesar\obj\Debug\net5.0\Caesar.genruntimeconfig.cache
